@@ -2,7 +2,7 @@
    $host = "localhost";
    $dbname = "building";
    $dbuser = "build";
-   $dbpass = "whitehat";
+   $dbpass = "*****";
    
   	function clean($input, $maxlength)
  	{
